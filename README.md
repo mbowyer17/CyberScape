@@ -32,23 +32,27 @@ Main Menu: <br/>
 <img src="https://i.imgur.com/bBr8n7k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Comparative Scene For Each Technique Used:  <br/>
+Scene Changer Editor Script:  <br/>
 <img src="https://i.imgur.com/uxAUDgk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Occullsion Culling Used With Profiler: <br/>
+Tutorial Level: <br/>
 <img src="https://i.imgur.com/ijs9LrS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Occullsion Culling Used With Profiler: <br/>
+Light Probes: <br/>
 <img src="https://i.imgur.com/Ir3gSvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Occullsion Culling Used With Profiler: <br/>
+Level 1 Puzzle: <br/>
 <img src="https://i.imgur.com/vjv4w96.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Occullsion Culling Used With Profiler: <br/>
+Level 2 Puzzle: <br/>
 <img src="https://i.imgur.com/NlaeguH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Level 3 Puzzle: <br/>
+<img src="https://i.imgur.com/RKkcP5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />

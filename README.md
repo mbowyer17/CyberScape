@@ -29,30 +29,30 @@ Developed "CyberScape," a First-Person Action Platformer, leveraging advanced sc
 
 <p align="center">
 Main Menu: <br/>
-<img src="https://i.imgur.com/bBr8n7k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bBr8n7k.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Scene Changer Editor Script:  <br/>
-<img src="https://i.imgur.com/uxAUDgk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uxAUDgk.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Tutorial Level: <br/>
-<img src="https://i.imgur.com/ijs9LrS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ijs9LrS.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Light Probes: <br/>
-<img src="https://i.imgur.com/Ir3gSvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ir3gSvu.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Level 1 Puzzle: <br/>
-<img src="https://i.imgur.com/vjv4w96.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vjv4w96.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Level 2 Puzzle: <br/>
-<img src="https://i.imgur.com/NlaeguH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NlaeguH.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Level 3 Puzzle: <br/>
-<img src="https://i.imgur.com/RKkcP5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RKkcP5Z.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
